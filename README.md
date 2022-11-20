@@ -46,9 +46,4 @@ Each unit usually encorporates some sort of presentation where students are able
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
-
 I think that having all materials online increases access for students who may have issues with attendance. Providing it in a way that is visible for the entirety of the course allows students to go back and re-read or re-watch lessons. Having 1-1 chromebook access allows all students access to the content. There are some issues with privacy, for examlpe the Scratch site does not have a signed privacy agreement with my district, so students are not allowed to sign in, but they can still use the site to experiment, they just can't save their work. Tableau was another challenge, I was able to get a year long cloud site, but I was not able to get students to view it the traditional way because their Gmail acounts don't accept emails from outside of the district. Part of each unit in the curriculum encourages students to think abou the ethics of the data, programs, and applications that they are using.
