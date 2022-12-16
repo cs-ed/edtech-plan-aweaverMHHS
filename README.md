@@ -49,7 +49,7 @@ Customization ID: mimrock
 ARC: 8807645
 JavaScript: V8 10.3.174.20
 User Agent: Mozilla/5.0 (X11; CrOS x86_64 14816.131.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
-(This is what I was able to access given that I don't have access to all settings because I do not have administrator privileges. 
+(This is what I was able to access given that I don't have access to all settings because I do not have administrator privileges.) 
 
 ### Application
 
