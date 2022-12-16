@@ -34,6 +34,22 @@ The software I am using and hoping to use in the future includes:
 
 Each of my students needs access to a computer. Beyond that, there are no hardware requirements I can think of. We do not use CDs, flash drives, or other equipment, everything for the class is delivered online. Occasionally I print a copy of something for students so that they have it physically to mark up or reference. So maybe a printer, which I have in the classroom. I also have a Smart Board that I use for projection and that the students can use for presentations.
 
+My current district issued laptop is a Lenovo L570 with the following specifications:
+Processor	Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz
+Installed RAM	8.00 GB (7.90 GB usable)
+Edition	Windows 10 Enterprise Version	22H2
+
+My students currently have each have a school issued HP Chromebook with the following specifications:
+103.0.5060.132 (Official Build) (64-bit) 
+Revision: bcb0e65ad2f1e2bedb2d41e4cc15ec825ae3b7fd-refs/branch-heads/5060@{#1253}
+Platform: 14816.131.0 (Official Build) stable-channel octopus
+Firmware Version: Google_Meep.11297.262.0
+Customization ID: mimrock
+ARC: 8807645
+JavaScript: V8 10.3.174.20
+User Agent: Mozilla/5.0 (X11; CrOS x86_64 14816.131.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+(This is what I was able to access given that I don't have access to all settings because I do not have administrator privileges. 
+
 ### Application
 
 The course is broken down into units. In each unit there is a different focus which incorporates a different set of objectives, activities, and projects. There are no "tests" in the class. The assignments and projects are completed sometimes in groups, sometimes pairs, and sometimes individually. 
